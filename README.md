@@ -51,7 +51,7 @@ help
 
 ## Built With
 
-* [arduino-cli](https://github.com/arduino/arduino-cli) - Heavily dependent for all sort of things
+* [arduino-cli](https://github.com/arduino/arduino-cli) - Heavily dependent for all sorts of things
 
 ## Versioning
 
