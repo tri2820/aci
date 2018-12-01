@@ -1,5 +1,5 @@
 #!/bin/sh
-# Usage: source aci_env
+# Usage: source aci
 # ACI Arduino Client Interface 0.1
 # ACI needs arduino-cli, grep, jq installed on your linux machine
 
