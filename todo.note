@@ -1,0 +1,12 @@
+check bash requirements on 'install_this'
+
+make a "load" function, which receives project.zip and uncompress, install libs for it
+    aka reverse distribute
+
+read setup on startup
+    write data like FQBN and PORT to yml file for fast startup
+
+Note:
+#libs -> LOCATION
+#sketchbook == /root/Arduino/libraries/
+#arduino:avr@1.6.23 == /home/tri/.arduino15/packages/arduino/hardware/avr/1.6.23/libraries
